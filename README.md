@@ -10,7 +10,7 @@ The major aim of this project is to gain insight into the sales data of Amazon t
 This dataset contains sales transactions from three different branches of Amazon A, B & C respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns (Invoice Id, Branch, City, Customer Type, Gender, Product Line, Unit Price, Quantity, VAT, Total, Date, Time, Payment Method, Cogs, Gross Margin Percentage, Gross Income, Rating) and 1000 rows.
 
 # Analysis List
-  # 1.Product Analysis
+  *  1.Product Analysis
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
   # 2.Sales Analysis
 This analysis aims to answer the question of the sales trends of product. The result of this can help us measure the effectiveness of each sales strategy the business applies and what modifications are needed to gain more sales.
