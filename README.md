@@ -1,5 +1,6 @@
 # Amazon Sales Analysis Using MySQL
-![Local Image](images/AmazonSales.jpeg)
+![Local Image](AmazonSales.jpeg)
+
 
 
 # Purposes Of The Capstone Project
