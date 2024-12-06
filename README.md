@@ -3,7 +3,8 @@
 
 
 * Note: Check out the .pptx file to get clear view of the project 
- [Download the PowerPoint](./SQL%20Capstone%20Project.pptx)
+ [View the Presentation](./SQL_Capstone_Project.pdf)
+
 
 
 # Purposes Of The Capstone Project
