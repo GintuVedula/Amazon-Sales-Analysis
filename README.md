@@ -2,6 +2,8 @@
 ![Local Image](AmazonSales.jpeg)
 
 
+* Note: Check out the .pptx file to get clear view of the project
+  [Download the PowerPoint](SQL Capstone Project.pptx)
 
 # Purposes Of The Capstone Project
 The major aim of this project is to gain insight into the sales data of Amazon to understand the different factors that affect sales of the different cities and their corrosponding branches of Amazon located in Myanmar, using MySQL. The project aims to uncover insights into sales trends, customer behavior, and product performance. By leveraging the power of MySQL queries, we extract meaningful statistics and patterns from complex datasets.
