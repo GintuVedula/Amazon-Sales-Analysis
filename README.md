@@ -42,9 +42,13 @@ This analysis aims to uncover the different customer segments, purchase trends a
 # Business Questions To Answer:
 
 1.  What is the count of distinct cities in the dataset?
+   
 2.For each branch, what is the corresponding city?
+
 3.What is the count of distinct product lines in the dataset?
+
 4.Which payment method occurs most frequently?
+
 5.Which product line has the highest sales?
 6.How much revenue is generated each month?
 7.In which month did the cost of goods sold reach its peak?
