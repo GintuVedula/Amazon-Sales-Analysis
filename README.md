@@ -10,14 +10,19 @@ The major aim of this project is to gain insight into the sales data of Amazon t
 This dataset contains sales transactions from three different branches of Amazon A, B & C respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns (Invoice Id, Branch, City, Customer Type, Gender, Product Line, Unit Price, Quantity, VAT, Total, Date, Time, Payment Method, Cogs, Gross Margin Percentage, Gross Income, Rating) and 1000 rows.
 
 # Analysis List
-  *  Product Analysis
+  *  Product Analysis:
+
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
-  * Sales Analysis
+  * Sales Analysis:
+    
 This analysis aims to answer the question of the sales trends of product. The result of this can help us measure the effectiveness of each sales strategy the business applies and what modifications are needed to gain more sales.
-  * Customer Analysis
+  * Customer Analysis:
+    
 This analysis aims to uncover the different customer segments, purchase trends and the profitability of each customer segment.
 # Approach Used
   * Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace missing or NULL values.
+
+    
     1.1.Build a database
     1.2.Create a table and insert the data.
     1.3.Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT NULL for each field, hence null values are filtered out.
